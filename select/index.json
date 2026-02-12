@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君のココロをハッキング",
+  "base_artist": "ki-you",
+  "createdAt": "2026-02-12T09:05:14.485978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のココロをハッキング (feat. りむる)",
+      "artist": "ki-you",
+      "has_synced": false,
+      "path": "select/pl_01_君のココロをハッキング_(feat._りむる)_ki-you.txt"
+    }
+  ]
+}
